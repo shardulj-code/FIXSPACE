@@ -1,0 +1,1 @@
+{"scenarios":[{"id":"start-setup","criterion":"C1: Start Setup -> Confirm -> card","status":"MANUAL_PREVIEW"},{"id":"next-step","criterion":"C2: Next Step advances","status":"MANUAL_PREVIEW"},{"id":"why","criterion":"C3: Why this connection? opens","status":"MANUAL_PREVIEW"},{"id":"complete","criterion":"C4: Completion + restart","status":"MANUAL_PREVIEW"}]}

@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Environment secrets
+.env
+.env.*
+!.env.example
+
+# Local session data
+.claude/
+.codex/
+.cursor/
+
+# Local keys and Lens Studio session data
+spk_debug_key.pem
+ls-live-instance.json
